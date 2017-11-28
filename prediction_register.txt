@@ -1,4 +1,4 @@
-EPICID	Exoplanet? #?0 for ec. binary, 1 for exoplanet
+EPICID	Exoplanet? prob #?0 for ec. binary, 1 for exoplanet
 210307350	0.7767205238342285
 210307958	0.005971535108983517
 210312900	0.705976665019989
